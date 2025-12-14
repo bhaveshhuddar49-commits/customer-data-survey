@@ -106,7 +106,7 @@ The Power BI dashboard provides:
 1. Clone the repository:
 
    ```bash
-   
+   https://github.com/bhaveshhuddar49-commits/costomer-data-survey.git
    ```
 
 2. Install required Python libraries:
